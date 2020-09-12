@@ -26,6 +26,3 @@ def oxford_comma(array)
   end
 end
 
-# def oxford_comma(array)
-#   array.join(",") + array.insert(2, "and")
-# end
